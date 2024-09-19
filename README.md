@@ -1,16 +1,5 @@
 
 ## 0 前言说明
-1. **项目作品：[https://qtchina.blog.csdn.net/article/details/97565652](https://qtchina.blog.csdn.net/article/details/97565652)**
-2. **视频主页：[https://space.bilibili.com/687803542](https://space.bilibili.com/687803542)**
-3. **网店地址：[https://shop244026315.taobao.com](https://shop244026315.taobao.com)**
-4. **联系方式：QQ（517216493）微信（feiyangqingyun）推荐加微信。**
-5. **公 众 号：Qt实战/Qt入门和进阶/Qt教程/Qt软件**
-6. **版本支持：所有项目已经全部支持Qt4/5/6所有版本以及后续版本。**
-7. 监控作品体验：[https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g](https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g) 提取码：01jf
-8. 其他作品体验：[https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A](https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A) 提取码：o05q
-9. 监控系统在线文档：[http://www.qtcdev.com/video_system/](http://www.qtcdev.com/video_system/)
-10. 大屏系统在线文档：[http://www.qtcdev.com/bigscreen/](http://www.qtcdev.com/bigscreen/)
-11. 物联网系统在线文档：[http://www.qtcdev.com/iotsystem/](http://www.qtcdev.com/iotsystem/)
 
 ## 1 开发经验
 ### 01：001-010
